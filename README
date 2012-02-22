@@ -10,8 +10,8 @@
 
 ==============================
 Install:
-	dpkg -i cw1-6005-fw3e11.deb
+	dpkg -i cw1-6005-yg1e11.deb
 
 Usage:
-	cw1-6005-fw3e11 # which equals 'php index.php'
+	cw1-6005-yg1e11 # which equals 'php index.php'
 
