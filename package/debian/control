@@ -1,0 +1,14 @@
+Source: cw1-6005-yg1e111
+Section: web
+Priority: optional
+Maintainer: Yuan Gao <yg1e11@soton.ac.uk>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 1.4
+Homepage: https://github.com/YuanGao/6005_cw1_yg1e11
+
+Package: cw1-6005-yg1e11
+Architecture: all
+Depends: ${misc:Depends}, debconf, php5-cli (>= 5)
+Description: RSS Reader written in PHP
+ cw1-6005-pw6g08 is a feed reader written for the INFO6005 module
+ ran by the University of Southampton
